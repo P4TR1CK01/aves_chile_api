@@ -1,3 +1,6 @@
+##EXAMEN MODULO 3
+AUTHOR PATRICK OJEDA
+
 '''//////////////////////////////////////////////
 La asociación de Amantes de los pájaros de Chile ha notado que actualmente 
 no se tiene información de los distintos pájaros que pueden ser observados en Chile. 
